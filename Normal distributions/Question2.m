@@ -1,6 +1,9 @@
 printf('\nQuest√£o 1 :Implemente a densidade de probabilidade da eq. (3) em forma de fun√ßÀúao an√¥nima\n\n');
 
 
+pkg load statistics
+
+
 %%%   The requested function
 %%%
 %%%   p(x; µ, ?≤) = (1/sqrt (2pi?≤))exp {-(x - µ)^2 / 2?≤2) 
